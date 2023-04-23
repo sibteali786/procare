@@ -7,7 +7,7 @@ export default function Navbar() {
       style={{ zIndex: "10", position: "fixed" }}
     >
       <div>Logo</div>
-      <div className="font-medium space-x-4 fontFamily">
+      <div className=" space-x-4 fontFamily">
         <Link href="/#hero" className="hover-nav-link ">
           Home
         </Link>
