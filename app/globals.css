@@ -25,3 +25,23 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+@layer base{
+  .fontFamily{
+    @apply font-[Montserrat] ;
+  }
+
+  .buttonBackground {
+    @apply bg-blue-500 text-white hover:bg-blue-400 focus-visible:outline-blue-400;
+  }
+}
+
+@layer utilities {
+  .hover-nav-link{
+    @apply hover:text-blue-500;
+  }
+
+  .callToAction{
+    @apply text-blue-500;
+  }
+}
