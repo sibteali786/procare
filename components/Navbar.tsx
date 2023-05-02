@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Navbar() {
   return (
     <nav
-      className="bg-gray-900 text-white bg-transparent flex justify-between px-[4rem] py-[1rem] w-full"
+      className="bg-black/30 text-white flex justify-between px-[4rem] py-[1rem] w-full"
       style={{ zIndex: "10", position: "fixed" }}
     >
       <div>Logo</div>
