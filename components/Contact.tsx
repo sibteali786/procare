@@ -69,9 +69,9 @@ const Contact = () => {
                   />
                 </dt>
                 <dd>
-                  545 Mavis Island
+                  N112W16298 Mequon Rd Ste 127
                   <br />
-                  Chicago, IL 99191
+                  Germantown Wi 53022-3306
                 </dd>
               </div>
               <div className="flex gap-x-4">
@@ -83,8 +83,8 @@ const Contact = () => {
                   />
                 </dt>
                 <dd>
-                  <a className="hover:text-white" href="tel:+1 (555) 234-5678">
-                    +1 (555) 234-5678
+                  <a className="hover:text-white" href="tel:800-917-7102">
+                    800-917-7102
                   </a>
                 </dd>
               </div>
