@@ -38,7 +38,7 @@ body {
 
 @layer utilities {
   .hover-nav-link{
-    @apply hover:text-blue-500;
+    /* @apply hover:text-blue-500; */
   }
 
   .callToAction{
